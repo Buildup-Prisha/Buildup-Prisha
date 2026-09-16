@@ -196,14 +196,15 @@ I'm continuously building and experimenting with new projects while learning dif
 
 ## 📅 My GitHub Activity
 
+<h2 align="center">📈 GitHub Activity</h2>
+
 <p align="center">
-
-<a href="https://github.com/buildup-prisha?tab=overview"> <img src="https://img.shields.io/badge/Contribution%20Activity-View-181717?style=for-the-badge&logo=github"/> </a>
-
-<a href="https://github.com/buildup-prisha?tab=repositories"> <img src="https://img.shields.io/badge/Repositories-View-181717?style=for-the-badge&logo=github"/> </a>
-
-<a href="https://github.com/buildup-prisha?tab=stars"> <img src="https://img.shields.io/badge/Stars-View-181717?style=for-the-badge&logo=github"/> </a>
-
+  <a href="https://github.com/piyush2676">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=piyush2676&theme=react-dark&hide_border=true&area=true"
+      alt="GitHub Activity Graph"
+    />
+  </a>
 </p>
 
 ---
