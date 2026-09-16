@@ -199,7 +199,16 @@ I'm continuously building and experimenting with new projects while learning dif
 ## 📅 My GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=buildup-prisha&theme=github-compact&hide_border=true&area=true&custom_title=Prisha's%20Contribution%20Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=buildup-prisha&theme=github-compact&hide_border=true&area=true&custom_title=Prisha%27s%20Contribution%20Graph" width="100%" alt="GitHub Contribution Graph"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/buildup-prisha?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github" alt="Repositories"/>
+  </a>
+  <a href="https://github.com/buildup-prisha?tab=stars">
+    <img src="https://img.shields.io/badge/View%20Starred%20Repositories-181717?style=for-the-badge&logo=github" alt="Starred Repositories"/>
+  </a>
 </p>
 
 ---
