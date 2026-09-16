@@ -167,16 +167,16 @@ I'm continuously building and experimenting with new projects while learning dif
 
 ## 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=buildup-prisha&hide_border=true&area=true" width="100%"/>
-</p>
+<p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/buildup-prisha/buildup-prisha/output/github-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/buildup-prisha/buildup-prisha/output/github-snake.svg"> <img src="https://raw.githubusercontent.com/buildup-prisha/buildup-prisha/output/github-snake.svg" width="100%" alt="GitHub Contribution Snake"/> </picture> </p>
 
 ---
 
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=buildup-prisha&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
+
+<a href="https://github.com/buildup-prisha?tab=achievements"> <img src="https://img.shields.io/badge/GitHub%20Achievements-View-181717?style=for-the-badge&logo=github"/> </a>
+
 </p>
 
 ---
@@ -197,7 +197,13 @@ I'm continuously building and experimenting with new projects while learning dif
 ## 📅 My GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=buildup-prisha&theme=github-compact&hide_border=true&area=true&custom_title=Prisha's%20Contribution%20Graph" width="100%"/>
+
+<a href="https://github.com/buildup-prisha?tab=overview"> <img src="https://img.shields.io/badge/Contribution%20Activity-View-181717?style=for-the-badge&logo=github"/> </a>
+
+<a href="https://github.com/buildup-prisha?tab=repositories"> <img src="https://img.shields.io/badge/Repositories-View-181717?style=for-the-badge&logo=github"/> </a>
+
+<a href="https://github.com/buildup-prisha?tab=stars"> <img src="https://img.shields.io/badge/Stars-View-181717?style=for-the-badge&logo=github"/> </a>
+
 </p>
 
 ---
