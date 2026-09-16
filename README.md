@@ -40,7 +40,7 @@ I enjoy **building, experimenting, and learning by solving real-world problems**
   <img src="https://img.shields.io/badge/AI%2FML-Learning-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Python-Improving-yellow?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-Improving-orange?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DSA-C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DSA-C-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </p>
 
 ---
