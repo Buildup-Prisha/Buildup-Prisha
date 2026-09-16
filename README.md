@@ -151,9 +151,10 @@ I'm continuously building and experimenting with new projects while learning dif
 ## 📊 GitHub Analysis
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=buildup-prisha&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buildup-prisha&layout=compact&hide_border=true&langs_count=8" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=buildup-prisha&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="Prisha's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buildup-prisha&layout=compact&hide_border=true&langs_count=8" height="180" alt="Prisha's Top Languages" />
 </p>
+
 
 ---
 
