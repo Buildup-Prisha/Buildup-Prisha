@@ -1,20 +1,16 @@
 <h1 align="center">Hi 👋, I'm Prisha Rai</h1>
 
+<h3 align="center">
+BTech–MTech CSE @ NIET
+</h3>
+
 <p align="center">
-  <strong>BTech–MTech CSE @ NIET</strong><br>
-  AI/ML • Software Development • Problem Solving
+AI/ML • Software Development • Problem Solving • Building Real-World Projects
 </p>
 
 <p align="center">
-  <a href="https://github.com/buildup-prisha">
-    <img src="https://komarev.com/ghpvc/?username=buildup-prisha&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/buildup-prisha?tab=followers">
-    <img src="https://img.shields.io/github/followers/buildup-prisha?label=Followers&style=flat" alt="GitHub Followers"/>
-  </a>
-  <a href="https://github.com/buildup-prisha">
-    <img src="https://img.shields.io/github/stars/buildup-prisha?label=Stars&style=flat" alt="GitHub Stars"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=buildup-prisha&label=Profile%20Views&style=flat" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/buildup-prisha?label=Followers&style=flat" alt="Followers"/>
 </p>
 
 ---
@@ -23,24 +19,27 @@
 
 I'm a **Computer Science Engineering student at NIET**, exploring different areas of technology through hands-on projects.
 
-I enjoy **building, experimenting, and learning by solving real-world problems**. Currently, I'm focusing on AI/ML while continuing to strengthen my software development and problem-solving skills.
+I enjoy **building, experimenting, and learning by solving real-world problems**. Currently, I'm focusing on **AI/ML** while strengthening my software development and problem-solving skills.
 
 * 🔭 Currently working on **[KairoLink](https://github.com/PriyanshiShrotriya/KairoLink)**
 * 🌱 Currently learning **AI/ML**
 * 💻 Exploring **Python, Java, SQL & Software Development**
-* 🚀 Interested in building practical, real-world projects
+* 🚀 Building practical projects while learning
 * 🤝 Open to collaborating on interesting projects
-* 📫 Reach me at **[Email](mailto:prisharai4418@gmail.com)**
+* 📫 **Email:** [prisharai4418@gmail.com](mailto:prisharai4418@gmail.com)
 
 ---
 
 ## 🧠 Currently Learning
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%2FML-Learning-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Python-Improving-yellow?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-Improving-orange?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DSA-C-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,mysql" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-Learning-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DSA-Learning-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SQL-Improving-blue?style=for-the-badge"/>
 </p>
 
 ---
@@ -49,63 +48,83 @@ I enjoy **building, experimenting, and learning by solving real-world problems**
 
 <table>
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ### 🚗 KairoLink
 
 **Smart & Reliable Carpooling System**
 
-A carpooling platform designed to manage rides, matching, bookings, fare sharing, ratings and authentication.
+A collaborative carpooling platform for ride matching, bookings, cancellations, fare sharing, ratings and authentication.
 
-**Tech:** Java • Spring Boot • PostgreSQL • JPA • Spring Security
+**Tech Stack**
 
+`Java` `Spring Boot` `PostgreSQL` `JPA` `Spring Security` `Thymeleaf`
+
+**My Role**
+
+Collaborator working on backend development, database integration and application features.
+
+<p align="center">
 <a href="https://github.com/PriyanshiShrotriya/KairoLink">
-  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
 </a>
+</p>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🚆 AI-Powered Automatic Block Planning
 
 **SIH 2026 Project**
 
-An AI-assisted railway block planning system combining **ML prediction with constraint optimization** to coordinate maintenance activities while reducing train disruption.
+An AI-powered railway block planning system combining **ML prediction and constraint optimization** to coordinate maintenance activities while reducing train disruption.
 
-**Tech:** Java • OR-Tools • CP-SAT • ML • Optimization
+**Tech Stack**
 
+`Java` `OR-Tools` `CP-SAT` `ML` `Optimization`
+
+<p align="center">
 <a href="https://github.com/piyush2676/sih-26027-blockplanner">
-  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
 </a>
+</p>
 
 </td>
+
 </tr>
 
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ### 👗 OutfitSync
 
-**Collaborative Outfit Platform**
+**Collaborative Web Project**
 
-A collaborative project exploring outfit discovery, organization and synchronization through a modern web application.
+A group project exploring outfit discovery, organization and synchronization through a modern web application.
 
-**Tech:** React • Vite • Express • MongoDB
+**Tech Stack**
+
+`React` `Vite` `Express` `MongoDB`
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧩 More Projects
+### 🔎 More Projects
 
 I'm continuously building and experimenting with new projects while learning different technologies.
 
+<p align="center">
 <a href="https://github.com/buildup-prisha?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore%20All%20Repositories-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Explore%20Repositories-181717?style=for-the-badge&logo=github"/>
 </a>
+</p>
 
 </td>
+
 </tr>
 </table>
 
@@ -116,61 +135,65 @@ I'm continuously building and experimenting with new projects while learning dif
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,typescript,php" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,typescript,php"/>
 </p>
 
 ### Web & Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,spring,nodejs" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,spring"/>
 </p>
 
-### Data & Databases
+### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
 </p>
 
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode"/>
 </p>
 
-### Data / ML
+### Data & ML
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white"/>
 </p>
 
 ---
 
-## 📊 GitHub Analysis
+## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=buildup-prisha&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buildup-prisha&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages"/>
-</p>
-
-
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=buildup-prisha&hide_border=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/buildup-prisha/buildup-prisha/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/buildup-prisha/buildup-prisha/output/github-snake.svg">
+    <img src="https://raw.githubusercontent.com/buildup-prisha/buildup-prisha/output/github-snake.svg" width="100%" alt="GitHub Contribution Snake"/>
+  </picture>
 </p>
 
 ---
 
-## 📈 Contribution Activity
+## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=buildup-prisha&hide_border=true&area=true" width="100%"/>
+
+<a href="https://github.com/buildup-prisha?tab=overview">
+<img src="https://img.shields.io/badge/Contribution%20Activity-View-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://github.com/buildup-prisha?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-View-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://github.com/buildup-prisha?tab=stars">
+<img src="https://img.shields.io/badge/Stars-View-181717?style=for-the-badge&logo=github"/>
+</a>
+
 </p>
 
 ---
@@ -178,37 +201,23 @@ I'm continuously building and experimenting with new projects while learning dif
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=buildup-prisha&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
+
+<a href="https://github.com/buildup-prisha?tab=achievements">
+<img src="https://img.shields.io/badge/GitHub%20Achievements-View-181717?style=for-the-badge&logo=github"/>
+</a>
+
 </p>
 
 ---
 
-## ⭐ Repository Highlights
+## 📂 My Repositories
 
 <p align="center">
-  <a href="https://github.com/buildup-prisha?tab=repositories">
-    <img src="https://img.shields.io/badge/📂%20All%20Repositories-181717?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://github.com/buildup-prisha?tab=stars">
-    <img src="https://img.shields.io/badge/⭐%20Starred%20Repositories-181717?style=for-the-badge&logo=github"/>
-  </a>
-</p>
 
----
+<a href="https://github.com/buildup-prisha?tab=repositories">
+<img src="https://img.shields.io/badge/Explore%20All%20Repositories-181717?style=for-the-badge&logo=github"/>
+</a>
 
-## 📅 My GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=buildup-prisha&theme=github-compact&hide_border=true&area=true&custom_title=Prisha%27s%20Contribution%20Graph" width="100%" alt="GitHub Contribution Graph"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/buildup-prisha?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github" alt="Repositories"/>
-  </a>
-  <a href="https://github.com/buildup-prisha?tab=stars">
-    <img src="https://img.shields.io/badge/View%20Starred%20Repositories-181717?style=for-the-badge&logo=github" alt="Starred Repositories"/>
-  </a>
 </p>
 
 ---
@@ -216,15 +225,19 @@ I'm continuously building and experimenting with new projects while learning dif
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/prisha-rai-ai">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:prisharai4418@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/buildup-prisha">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+
+<a href="https://linkedin.com/in/prisha-rai-ai">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:prisharai4418@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/buildup-prisha">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
 ---
